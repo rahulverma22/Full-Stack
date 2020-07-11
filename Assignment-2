@@ -1,0 +1,26 @@
+//created by - rahul verma
+//editor-BRACKETS
+//date-11-07-2020
+
+
+______________________________________________________________________________________________________________________________________________________________________
+
+<html>
+    <title>Assignment-2</title>
+    <style> 
+       body
+        {
+            background-color:aqua;
+        }
+        h1{
+            color:red;
+        }
+    </style>
+    
+    <body>
+        <h1>This is my live web-page</h1>
+        <h2>About me</h2>
+        <p>I am Rahul Verma and I am learning HTML.
+        HTML is a markup language which is used by the browser to manipulate text, images and other content to display it in required format. HTML was created by Tim Berners-Lee in 1991. The first ever version of HTML was HTML 1.0 but the first standard version was HTML 2.0 which was published in 1999</p>
+    </body>
+</html>
